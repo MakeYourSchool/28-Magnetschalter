@@ -1,24 +1,24 @@
-##Magnetic_Switch
-![image](http://www.seeedstudio.com/wiki/images/c/c0/Magnetic_Switch.jpg)
+Magnetschalter
+----
+*(Seeed Studio Grove – Magnet Switch)*
 
-This is a Grove interface compatible Magnetic switch module. It is based on encapsulated dry reed switch CT10. CT10 is single-pole, single throw (SPST) type, having normally open ruthenium contacts. The sensor is a double-ended type and may be actuated with an electromagnet, a permanent magnet or a combination of both. The magnetic switch is a wonderful tool for designers who would like to turn a circuit on and off based on proximity.
+<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/28_magnetschalter-1024x1024.jpg width=400px>
 
-For more information, please refer to [Grove_Magnetic_Switch][1]
+Der Magnetschalter funktioniert wie ein normaler Schalter und kann als Eingabe für einen Mikrocontroller verwendet werden. Der Sensor ermittelt, ob sich ein Magnet in seiner unmittelbaren Nähe befindet und gibt ein digitales Signal aus, sobald er sich in einem Magnetfeld befindet. Er kann direkt oder mithilfe des Grove Shields an einen Arduino oder Raspberry Pi angeschlossen werden. Der Schalter benötigt nur einen digitalen Pin.
+
+Ein solcher Magnetschalter kommt beispielsweise in jedem Laptop zum Einsatz, um zu erkennen, ob dieser zugeklappt wird. Weiterhin kann der Sensor eingesetzt werden, um Systeme oder Geräte berührungslos nur mithilfe eines Magnets an- oder auszuschalten (oder andere Befehle per Magnet übertragen).
 
 ----
-This software is written by Frankie Chu for seeed studio<br>
-and is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check License.txt for more information.<br>
 
-Contributing to this software is warmly welcomed. You can do this basically by<br>
-[forking](https://help.github.com/articles/fork-a-repo), committing modifications and then [pulling requests](https://help.github.com/articles/using-pull-requests) (follow the links above<br>
-for operating guide). Adding change log and your contact into file header is encouraged.<br>
-Thanks for your contribution.
+In diesem Repository findet ihr **Bibliotheken und Beispiel-Codes**, mit denen der hier vorliegende Sensor getestet werden kann. Wir richten uns hiermit an **jeden Mentor und jede Mentorin aus dem Rahmen von Make Your School** und ermutigen euch, die hier zusammengestellten Codes **nach Bedarf** und individuell gemachten Erfahrungen **anzupassen**. Beispiele können einfach im Ordner /examples hinzugefügt oder angepasst werden. Wir versuchen das Repository regelmäßig mit Hilfe von euren Änderungsvorschlägen zu aktualisieren.
 
-Seeed is a hardware innovation platform for makers to grow inspirations into differentiating products. By working closely with technology providers of all scale, Seeed provides accessible technologies with quality, speed and supply chain knowledge. When prototypes are ready to iterate, Seeed helps productize 1 to 1,000 pcs using in-house engineering, supply chain management and agile manufacture forces. Seeed also team up with incubators, Chinese tech ecosystem, investors and distribution channels to portal Maker startups beyond.
+Das Repository basiert grundlegend auf den veröffentlichten Informationen und Codes von Seeed Studio. 
+Die deutsche Übersetzung stammt von [Make Your School](https://www.makeyourschool.de/). Fehlinterpretationen und Änderungen vorbehalten. Die Informationen dürfen frei genutzt, angepasst und verbreitet werden, solange die [Nutzungsrechte von Seeed Studio](https://github.com/Seeed-Studio/Grove_Dust_Sensor/blob/master/License.txt) beachtet werden. 
 
+**Weitere Informationen:**
 
-[1]:http://www.seeedstudio.com/wiki/Grove_-_Magnetic_Switch
+[Repository von Seed Studio](https://github.com/Seeed-Studio/)
 
+[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove/)
 
-
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Magnetic_Switch)](https://github.com/igrigorik/ga-beacon)
+[Materialkoffer von Make Your School](https://www.makeyourschool.de/material/)
