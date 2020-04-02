@@ -21,8 +21,8 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 
 **Weitere Informationen:**
 
-[Repository von Seed Studio](https://github.com/Seeed-Studio/Magnetic_Switch)
+[Repository von Seeed Studio](https://github.com/Seeed-Studio/Magnetic_Switch)
 
-[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-Magnetic_Switch/)
+[Offizielles Wiki von Seeed Studio](http://wiki.seeedstudio.com/Grove-Magnetic_Switch/)
 
 [Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/magnetschalter/)
